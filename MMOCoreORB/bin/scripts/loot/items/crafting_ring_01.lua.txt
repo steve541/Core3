@@ -1,0 +1,30 @@
+crafting_ring_01 = {
+        minimumLevel = 0,
+        maximumLevel = -1,
+        customObjectName = "GM Crafting Ring",
+        directObjectTemplate = "object/tangible/wearables/ring/ring_s01.iff",
+        craftingValue = {},
+        skillMods = {
+                     {"general_assembly", 25},
+                     {"general_experimentation", 25},
+                     {"clothing_assembly", 25},
+                     {"clothing_experimentation", 25},
+                     {"armor_assembly", 25},
+                     {"armor_experimentation", 25},
+                     {"weapon_assembly", 25},
+                     {"weapon_experimentation", 25},
+                     {"structure_assembly", 25},
+                     {"structure_experimentation", 25},
+                     {"structure_complexity", 25},
+                     {"droid_complexity", 25},
+                     {"droid_assembly", 25},
+                     {"droid_experimentation", 25},
+                    },
+        customizationStringNames = {},
+        customizationValues = {},
+        junkDealerTypeNeeded = JUNKCLOTHESANDJEWELLERY,
+        junkMinValue = 45,
+        junkMaxValue = 90,
+}
+
+addLootItemTemplate("crafting_ring_01", crafting_ring_01)
