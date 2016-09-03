@@ -1127,3 +1127,7 @@ includeFile("items/wearables/wookiee/wke_skirt_s01.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s02.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s03.lua")
 includeFile("items/wearables/wookiee/wke_skirt_s04.lua")
+
+-- Steve541 GM stuff
+includeFile("items/gm_hat.lua")
+includeFile("items/crafting_ring_01.lua")
