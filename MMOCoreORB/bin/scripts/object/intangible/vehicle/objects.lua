@@ -45,6 +45,52 @@ object_intangible_vehicle_shared_jetpack_pcd = SharedIntangibleObjectTemplate:ne
 	clientTemplateFileName = "object/intangible/vehicle/shared_jetpack_pcd.iff"
 	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
 --[[
+	appearanceFilename = "appearance/clone_barc_speeder.apt",
+	arrangementDescriptorFilename = "",
+
+	clearFloraRadius = 0,
+	clientDataFile = "",
+	clientGameObjectType = 2056,
+	collisionActionBlockFlags = 0,
+	collisionActionFlags = 0,
+	collisionActionPassFlags = 0,
+	collisionMaterialBlockFlags = 0,
+	collisionMaterialFlags = 0,
+	collisionMaterialPassFlags = 0,
+	containerType = 0,
+	containerVolumeLimit = 0,
+
+	detailedDescription = "@monster_detail:barc_speeder",
+
+	gameObjectType = 2056,
+
+	locationReservationRadius = 0,
+	lookAtText = "string_id_table",
+
+	noBuildRadius = 0,
+
+	objectName = "@monster_name:barc_speeder",
+	onlyVisibleInTools = 0,
+
+	portalLayoutFilename = "",
+
+	scale = 0,
+	scaleThresholdBeforeExtentTest = 0.5,
+	sendToClient = 1,
+	slotDescriptorFilename = "abstract/slot/descriptor/mount_pcd.iff",
+	snapToTerrain = 0,
+	surfaceType = 0,
+
+	totalCellNumber = 0,
+
+	clientObjectCRC = 3602862912,
+	derivedFromTemplates = {"object/object/base/shared_base_object.iff", "object/intangible/base/shared_base_intangible.iff", "object/intangible/vehicle/shared_vehicle_pcd_base.iff"}
+]]
+}
+
+ObjectTemplates:addClientTemplate(object_intangible_vehicle_shared_barc_speeder_pcd, "object/intangible/vehicle/shared_barc_speeder_pcd.iff")
+
+--[[
 	appearanceFilename = "appearance/jetpack_mandalorian_s01.apt",
 	arrangementDescriptorFilename = "",
 
