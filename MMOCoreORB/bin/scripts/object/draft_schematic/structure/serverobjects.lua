@@ -44,6 +44,7 @@
 
 --Children folder includes
 includeFile("draft_schematic/structure/city/serverobjects.lua")
+includeFile("draft_schematic/structure/idschem/idserverobjects.lua")
 includeFile("draft_schematic/structure/component/serverobjects.lua")
 
 -- Server Objects
