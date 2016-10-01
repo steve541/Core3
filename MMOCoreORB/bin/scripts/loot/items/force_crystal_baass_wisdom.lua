@@ -13,8 +13,8 @@ force_crystal_baass_wisdom = {
 		{"attackactioncost",0,5,0},
 		{"attackmindcost",0,5,0},
 		{"forcecost",0,4,0},
-		{"color",23,23,0},
-		{"quality",7,7,0},
+		{"color",31,31,0},
+		{"quality",6,6,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}
