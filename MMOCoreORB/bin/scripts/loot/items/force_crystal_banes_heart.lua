@@ -12,9 +12,9 @@ force_crystal_banes_heart = {
 		{"attackhealthcost",0,5,0},
 		{"attackactioncost",0,5,0},
 		{"attackmindcost",0,5,0},
-		{"forcecost",0,4,0},
-		{"color",16,16,0},
-		{"quality",7,7,0},
+		{"forcecost",0,9.9,0},
+		{"color",31,31,0},
+		{"quality",6,6,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}
