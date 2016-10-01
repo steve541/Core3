@@ -45,8 +45,8 @@ object_tangible_deed_vehicle_deed_barc_speeder_deed = object_tangible_deed_vehic
 
 	templateType = VEHICLEDEED,
 
-	controlDeviceObjectTemplate = "object/intangible/vehicle/shared_barc_speeder_pcd.iff",
-	generatedObjectTemplate = "object/mobile/vehicle/shared_barc_speeder.iff",
+	controlDeviceObjectTemplate = "object/intangible/vehicle/barc_speeder_pcd.iff",
+	generatedObjectTemplate = "object/mobile/vehicle/barc_speeder.iff",
 
 	numberExperimentalProperties = {1, 1, 1},
 	experimentalProperties = {"XX", "XX", "SR"},
@@ -59,4 +59,4 @@ object_tangible_deed_vehicle_deed_barc_speeder_deed = object_tangible_deed_vehic
 	experimentalCombineType = {0, 0, 1},
 }
 
-ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_shared_barc_speeder_deed, "object/tangible/deed/vehicle_deed/shared_barc_speeder_deed.iff")
+ObjectTemplates:addTemplate(object_tangible_deed_vehicle_deed_barc_speeder_deed, "object/tangible/deed/vehicle_deed/barc_speeder_deed.iff")
