@@ -2859,13 +2859,13 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			--		"A Blacksun Razor Knuckler", "object/weapon/melee/special/blacksun_razor.iff"
 				}
 			},
-			"Holocrons",
-			{
-				"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
-				"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
+			--"Holocrons",
+			--{
+			--	"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
+			--	"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
 			--	"Dark Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_dark.iff",
 			--	"Light Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_light.iff"
-			}
+			--}
 			"DWB Testing (Temporary)",
 			{
 				"Bounty Hunter Helmet", "object/tangible/wearables/armor/bounty_hunter/armor_bounty_hunter_helmet.iff",
