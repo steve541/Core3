@@ -1849,12 +1849,14 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 					},
 					"Custom",
 					{       
-						"atat house", "object/tangible/deed/player_house_deed/atat_house_deed.iff",
+						"mustafar house", "object/tangible/deed/player_house_deed/musty_house_deed.iff",
 						"bespin house", "object/tangible/deed/player_house_deed/bespin_house_deed.iff",
-						"commando house", "object/tangible/deed/player_house_deed/commando_house_deed.iff",
+						"hangar house", "object/tangible/deed/player_house_deed/hangar_house_deed.iff",
+						"vehicle house", "object/tangible/deed/player_house_deed/vehicle_house_deed.iff",
 						"emperors house", "object/tangible/deed/player_house_deed/emperors_house_deed.iff",
 						"jedi house", "object/tangible/deed/player_house_deed/jedi_house_deed.iff",
 						"rebel house", "object/tangible/deed/player_house_deed/rebel_house_deed.iff",
+						"jabbas house", "object/tangible/deed/player_house_deed/jabbas_house_deed.iff",
 						"sith house", "object/tangible/deed/player_house_deed/sith_house_deed.iff"
 					},	
 					"Installation Deeds",
