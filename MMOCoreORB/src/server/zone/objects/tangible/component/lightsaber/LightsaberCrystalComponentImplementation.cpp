@@ -1,3 +1,8 @@
+/*
+ * LightsaberCrystalComponentImplementation.cpp
+ *
+ *      Author: Katherine
+ */
 
 #include "engine/engine.h"
 
