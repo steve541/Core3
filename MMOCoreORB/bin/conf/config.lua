@@ -139,7 +139,6 @@ TrePath = "/home/swgemu/Desktop/SWGEmu"
 TreFiles = {
 	"classic_barc_speeder.tre",
 	"top_house_assets.tre",
-	"bottom_house_assets.tre",
 	"default_patch.tre",
 	"patch_sku1_14_00.tre",
 	"patch_14_00.tre",
@@ -190,7 +189,9 @@ TreFiles = {
 	"data_sample_01.tre",
 	"data_sample_00.tre",
 	"data_music_00.tre",
+	"bottom_house_assets.tre",
 	"bottom.tre"
+	
 }
 
 --Status Server Config
