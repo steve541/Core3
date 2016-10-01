@@ -2,7 +2,7 @@ force_crystal_prowess_of_plo_koon = {
 	minimumLevel = 0,
 	maximumLevel = -1,
 	customObjectName = "Prowess of Plo Koon",
-	directObjectTemplate = "object/tangible/component/weapon/lightsaber/lightsaber_module_force_crystal.iff",
+	directObjectTemplate = "object/tangible/component/weapon/lightsaber/lightsaber_module_krayt_dragon_pearl.iff",
 	craftingValues = {
 		{"mindamage",55,55,0},
 		{"maxdamage",85,85,0},
@@ -12,7 +12,7 @@ force_crystal_prowess_of_plo_koon = {
 		{"attackhealthcost",0,5,0},
 		{"attackactioncost",0,5,0},
 		{"attackmindcost",0,5,0},
-		{"forcecost",0,4,0},
+		{"forcecost",0,9.9,0},
 		{"color",31,31,0},
 		{"quality",6,6,0},
 	},
