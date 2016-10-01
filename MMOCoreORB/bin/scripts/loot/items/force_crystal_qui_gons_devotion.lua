@@ -2,7 +2,7 @@ force_crystal_qui_gons_devotion = {
 	minimumLevel = 0,
 	maximumLevel = -1,
 	customObjectName = "Qui-Gon's Devotion",
-	directObjectTemplate = "object/tangible/component/weapon/lightsaber/lightsaber_module_force_crystal.iff",
+	directObjectTemplate = "object/tangible/component/weapon/lightsaber/lightsaber_module_krayt_dragon_pearl.iff",
 	craftingValues = {
 		{"mindamage",55,55,0},
 		{"maxdamage",85,85,0},
@@ -13,8 +13,8 @@ force_crystal_qui_gons_devotion = {
 		{"attackactioncost",0,5,0},
 		{"attackmindcost",0,5,0},
 		{"forcecost",0,4,0},
-		{"color",27,27,0},
-		{"quality",7,7,0},
+		{"color",31,31,0},
+		{"quality",6,6,0},
 	},
 	customizationStringNames = {},
 	customizationValues = {}
