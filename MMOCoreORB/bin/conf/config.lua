@@ -137,7 +137,6 @@ ZonesEnabled = {
 TrePath = "/home/swgemu/Desktop/SWGEmu"
 
 TreFiles = {
-	"terminal_fix.tre",
 	"classic_barc_speeder.tre",
 	"top_house_assets.tre",
 	"default_patch.tre",
