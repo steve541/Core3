@@ -100,7 +100,6 @@ object_tangible_deed_vehicle_deed_shared_barc_speeder_deed = SharedTangibleObjec
 ObjectTemplates:addClientTemplate(object_tangible_deed_vehicle_deed_shared_barc_speeder_deed, "object/tangible/deed/vehicle_deed/shared_barc_speeder_deed.iff")
 
 
-
 object_tangible_deed_vehicle_deed_shared_jetpack_deed = SharedTangibleObjectTemplate:new {
 	clientTemplateFileName = "object/tangible/deed/vehicle_deed/shared_jetpack_deed.iff"
 	--Data below here is deprecated and loaded from the tres, keeping for easy lookups
