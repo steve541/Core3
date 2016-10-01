@@ -1131,3 +1131,4 @@ includeFile("items/wearables/wookiee/wke_skirt_s04.lua")
 -- Steve541 GM stuff
 includeFile("items/gm_hat.lua")
 includeFile("items/crafting_ring_01.lua")
+includeFile("items/gm_robe.lua")
