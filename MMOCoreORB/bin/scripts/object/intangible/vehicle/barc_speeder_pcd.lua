@@ -46,4 +46,4 @@ object_intangible_vehicle_barc_speeder_pcd = object_intangible_vehicle_shared_ba
 
 }
 
-ObjectTemplates:addTemplate(object_intangible_vehicle_barc_speeder_pcd, "object/intangible/vehicle/barc_speeder_pcd.iff")
+ObjectTemplates:addTemplate(object_intangible_vehicle_shared_barc_speeder_pcd, "object/intangible/vehicle/shared_barc_speeder_pcd.iff")
