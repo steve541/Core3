@@ -2,7 +2,7 @@ force_crystal_baass_wisdom = {
 	minimumLevel = 0,
 	maximumLevel = -1,
 	customObjectName = "Baas's Wisdom",
-	directObjectTemplate = "object/tangible/component/weapon/lightsaber/lightsaber_module_force_crystal.iff",
+	directObjectTemplate = "object/tangible/component/weapon/lightsaber/lightsaber_module_krayt_dragon_pearl.iff",
 	craftingValues = {
 		{"mindamage",55,55,0},
 		{"maxdamage",85,85,0},
