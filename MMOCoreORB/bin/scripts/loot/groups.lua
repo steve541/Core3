@@ -341,3 +341,4 @@ includeFile("groups/wearables/wearables_uncommon.lua")
 -- Steve541 GM stuff
 includeFile("groups/ring_crafting_01.lua")
 includeFile("groups/hat_gm.lua")
+includeFile("groups/robe_gm.lua")
