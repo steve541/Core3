@@ -1803,6 +1803,7 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 					--"Speederbike Flash", "object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff",
 					"Landspeeder av21", "object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff",
 					--"Landspeeder x31", "object/tangible/deed/vehicle_deed/landspeeder_x31_deed.iff",
+					"Barc", "object/tangible/deed/vehicle_deed/barc_speeder_deed.iff",
 					--"Landspeeder x34", "object/tangible/deed/vehicle_deed/landspeeder_x34_deed.iff"
 				},
 				"Structure Deeds",
@@ -1846,6 +1847,16 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 						"Merchant Tent Deed (Style 2)", "object/tangible/deed/player_house_deed/merchant_tent_style_02_deed.iff",
 						"Merchant Tent Deed (Style 3)", "object/tangible/deed/player_house_deed/merchant_tent_style_03_deed.iff"
 					},
+					"Custom",
+					{       
+						"atat house", "object/tangible/deed/player_house_deed/atat_house_deed.iff",
+						"bespin house", "object/tangible/deed/player_house_deed/bespin_house_deed.iff",
+						"commando house", "object/tangible/deed/player_house_deed/commando_house_deed.iff",
+						"emperors house", "object/tangible/deed/player_house_deed/emperors_house_deed.iff",
+						"jedi house", "object/tangible/deed/player_house_deed/jedi_house_deed.iff",
+						"rebel house", "object/tangible/deed/player_house_deed/rebel_house_deed.iff",
+						"sith house", "object/tangible/deed/player_house_deed/sith_house_deed.iff"
+					},	
 					"Installation Deeds",
 					{
 						--"Harvester Deeds",
@@ -2848,13 +2859,13 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			--		"A Blacksun Razor Knuckler", "object/weapon/melee/special/blacksun_razor.iff"
 				}
 			},
-			--"Holocrons",
-			--{
-			--	"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
-			--	"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
+			"Holocrons",
+			{
+				"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
+				"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
 			--	"Dark Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_dark.iff",
 			--	"Light Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_light.iff"
-			--}
+			}
 			"DWB Testing (Temporary)",
 			{
 				"Bounty Hunter Helmet", "object/tangible/wearables/armor/bounty_hunter/armor_bounty_hunter_helmet.iff",
